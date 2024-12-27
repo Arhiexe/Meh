@@ -1,16 +1,16 @@
 {
-   "name":"Vixtra",
+   "name":"Arhiexe",
    "description":"Currently Undergoing Bunny Port | Rewrite Version: 0.4",
    "authors":[
       {
-         "name":"VioletStorm",
+         "name":"Arhiexe",
          "id":"246735056280748032"
       }
    ],
    "spec":2,
    "semanticColors":{
       "HEADER_PRIMARY":[
-         "#E6A8FF"
+         "#540040"
       ],
       "HEADER_SECONDARY":[
          "#A175B2"
@@ -25,7 +25,7 @@
   "#E1A4F9"
 ],
 "TEXT_PRIMARY": [
-  "#FF5666"
+  "#d9d0d1"
 ],
 "TEXT_SECONDARY": [
   "#6F517C"
@@ -103,7 +103,7 @@
          "#050505"
       ],
       "CHANNEL_TEXT_AREA_PLACEHOLDER":[
-         "#AC80BF"
+         "#000000"
       ],
       "TEXT_DANGER":[
          "#E9438B"
@@ -118,7 +118,7 @@
          "#391A4C"
       ],
       "CHANNEL_ICON":[
-         "#CB93DF"
+         "#692286"
       ],
       "CHAT_BACKGROUND":[
          "#060208"
