@@ -272,8 +272,11 @@
     },
     "spec": 2
     }
-"background":{
+""background":{
       "blur":0.0,
-      "url":"https://i.ibb.co/rftRn7b/57ae560a836907e7e8010f5cf5cff2ad.jpg",
+      "url":"https://i.ibb.co/xMBLPFc/warmth.png",
       "alpha":1.0
+   },
+   "plus":{
+      "version":0
    }
