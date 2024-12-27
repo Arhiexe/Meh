@@ -47,7 +47,7 @@
         "CHANNELS_DEFAULT": ["#c8c8c8"],
         "CHANNEL_ICON": ["#8961ba"],
         "TEXT_PRIMARY": ["#FBFBFB"],
-        "TEXT_LINK": ["#d261d8"],
+        "TEXT_LINK": ["#586fd7"],
         "THREAD_CHANNEL_SPINE": ["#955ac4"]
     },
     "rawColors": {
@@ -60,10 +60,10 @@
         "PRIMARY_700": "#120212",
         "PRIMARY_800": "#9a489e",
         "PLUM_10": "#b2b2b2",
-        "PLUM_24": "#d261d8",
+        "PLUM_24": "#86378a",
         "PLUM_11": "#1a091a",
         "PLUM_15": "#261426",
-        "PLUM_16": "#d261d8",
+        "PLUM_16": "#9f41a4",
         "PLUM_17": "#2d152d",
         "PLUM_20": "#120212",
         "PLUM_3": "#FBFBFB",
