@@ -228,10 +228,3 @@
 	},
 	"spec": 2
 }
-"background": {
-        "blur": 0.1,
-        "url": "https://i.imgur.com/xVr8w3y.png",
-        "alpha": 1.0
-    },
-    "spec": 2
-}
